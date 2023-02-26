@@ -1,7 +1,7 @@
 # Weather_App
 A simple python backend Jetbrains Academy Project
 
-### :partly_sunny: Weather App made on Flask and SQLite by [JetBrains Academy's Python Developer course](https://hyperskill.org/tracks/2)
+### :partly_sunny: Weather App made on Flask and SQLite by [JetBrains Academy's Python Developer course](https://hyperskill.org/tracks/29)
 
 ![screen](https://user-images.githubusercontent.com/51692800/114059212-91ee2680-98ad-11eb-9950-f0263751285f.png)
 
